@@ -1,1 +1,4 @@
-egoisthubdemokeyless5342654
+local key = "egoisthubdemokeyless5342654"
+
+
+return key
